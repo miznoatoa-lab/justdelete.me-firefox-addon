@@ -1,4 +1,4 @@
-# JustDeleteMe Extension
+Erase # JustDeleteMe Extension
 <div style="text-align: center">
     <a href="https://addons.mozilla.org/en-US/firefox/addon/justdeleteme/">
         <img src="https://raw.githubusercontent.com/alexanderepolite/justdelete.me-firefox-addon/master/firefox_addon_image.png" alt="Download for Firefox">
